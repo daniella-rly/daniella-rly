@@ -2,17 +2,12 @@
 
 <h2>👩‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Projects (C#)</b>
-  - [File Directory](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Crossword]()
-  - [Maze]()
-- <b>Python Programming</b>
-  - [Computer Processes Simulation]()
-  - [Job Algorithms]()
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>HDFS</b>
-  - [Hadoop 1](https://github.com/joshmadakor1/Sentinel-Lab)
+- [Crossword Puzzle Generator (C#)](https://github.com/daniella-rly/Crossword-puzzle-C-.git)  
+  Console-based crossword generator with clue numbering and symmetry validation.
+- [CPU Scheduling Simulator (Python)](https://github.com/YOURUSERNAME/cpu-scheduler)  
+  Simulates SJF, Round Robin, and FCFS algorithms with CSV input/output.
+- [Durham Workforce App (Capstone, React/Node)](https://github.com/YOURUSERNAME/dwa-case-study)  
+  Prototype mobile app for workforce data visualization and job search.
 
 <h2> 🤳 Connect with me:</h2>
 
