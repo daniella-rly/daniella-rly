@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniella! <br/><a href="https://github.com/daniella-rly">Programmer</a>, <a href="https://www.linkedin.com/in/daniella-amasowomwan-4000bcf56">Computer Science Professional and Software Developer</a>
+<h1>Hi, I'm Daniella! <br/><a href="https://github.com/daniella-rly">Programmer</a>, <a href="www.linkedin.com/in/daniella-amasowomwan-4000bcf56">Computer Science Professional and Software Developer</a>
 
 <h2>👩‍💻 Software Development Projects:</h2>
 
