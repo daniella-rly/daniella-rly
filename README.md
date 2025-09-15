@@ -8,3 +8,14 @@
   Simulates SJF, Round Robin, and FCFS algorithms with CSV input/output.
 <!--- [Durham Workforce App (Capstone, React/Node)](https://github.com/YOURUSERNAME/dwa-case-study)  
   Prototype mobile app for workforce data visualization and job search.-->
+
+<h2>📫 Connect with Me</h2>
+
+- [LinkedIn](https://www.linkedin.com/in/daniellaamasowomwan-4000bcf56/)  
+- [Email](mailto:daniellaamas@gmail.com)
+
+<h2>🌱 Currently Learning</h2>
+
+- Cloud computing with AWS  
+- Cybersecurity Basics
+
